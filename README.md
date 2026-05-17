@@ -6,12 +6,16 @@ CineStream is a dynamic, full-stack movie streaming platform simulation. This pr
 
 Our primary goal was to build a robust application focusing on a seamless user experience, responsive UI design, and strong database architecture.
 
+## 📹 Video Demonstration
+*You can watch a full demonstration of the project and its features here:*
+https://github.com/user-attachments/assets/55342661-b9ee-4099-a250-051447cf73e7
+
 ## 👥 Meet The Team
 This project was successfully delivered through the collaborative effort of our dedicated team:
-- **[Your Name]** - [Link to your GitHub/LinkedIn]
-- **[Team Member 2 Name]** - [Link to Member 2]
-- **[Team Member 3 Name]** - [Link to Member 3]
-- **[Team Member 4 Name]** - [Link to Member 4]
+- **Mazen Ashraf** - [@mazen7420](https://github.com/mazen7420)
+- **Hassan Montaser** 
+- **Omar Salah** 
+- **Ziad Mohamed** 
 
 ## 🚀 Key Features
 - **User Authentication:** Secure login and registration system.
@@ -30,9 +34,3 @@ This project was successfully delivered through the collaborative effort of our 
 3. Import the `setup.sql` file into your MySQL database (via phpMyAdmin).
 4. Update the `database.php` with your local database credentials if necessary.
 5. Open `http://localhost/cinestream` in your web browser.
-
-## 📹 Video Demonstration
-*You can watch a full demonstration of the project and its features here:*
-
-<video src="demo.mp4" controls="controls" width="100%">
-</video>
