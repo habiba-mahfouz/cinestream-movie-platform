@@ -9,7 +9,10 @@ Our primary goal was to build a robust application focusing on a seamless user e
 ## 📹 Video Demonstration
 *You can watch a full demonstration of the project and its features here:*
 
-https://github.com/user-attachments/assets/ce56a9e1-066a-4276-b2f5-d21004705af6
+
+
+https://github.com/user-attachments/assets/e690ebf2-ce02-4259-ab2f-5ff2068da852
+
 
 
 ## 👥 Meet The Team
