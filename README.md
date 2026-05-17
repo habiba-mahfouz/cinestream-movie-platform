@@ -33,5 +33,5 @@ This project was successfully delivered through the collaborative effort of our 
 
 ## 📹 Video Demonstration
 *You can watch a full demonstration of the project and its features here:*
-<video src="Screen Recording 2026-05-17 185323.mp4" controls="controls" width="100%">
+<video src="demo.mp4" controls="controls" width="100%">
 </video>
