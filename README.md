@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/e690ebf2-ce02-4259-ab2f-5ff2068da852
 
 ## 👥 Meet The Team
 This project was successfully delivered through the collaborative effort of our dedicated team:
-- **Mazen Ashraf** - [@mazen7420](https://github.com/mazen7420)
+- [**Mazen Ashraf**](https://github.com/mazen7420)
 - **Hassan Montaser** 
 - **Omar Salah** 
 - **Ziad Mohamed** 
