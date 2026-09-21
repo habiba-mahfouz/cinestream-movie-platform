@@ -33,7 +33,8 @@ This project was successfully delivered through the collaborative effort of our 
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
 - **Backend:** PHP (Procedural)
 - **Database:** MySQL
-
+- ## 🙋‍♀️ My Contribution
+I built the complete responsive front end from scratch (Vanilla CSS, Flexbox, Grid, and a dark/light mode toggle), and wrote the MySQL queries in PHP powering the movie catalog, search, and "My List" features.
 ## ⚙️ How to Run Locally
 1. Clone this repository: `git clone https://github.com/habiba-mahfouz/cinestream-movie-platform.git`
 2. Place the folder inside your XAMPP `htdocs` directory.
